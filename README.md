@@ -6,7 +6,7 @@
 
 **Journal:** IEEE Journal of Biomedical and Health Informatics (JBHI)
 
-**DOI:** [10.1109/JBHI.2026.3742741](https://doi.org/10.1109/JBHI.2026.3742741)
+**DOI:** 
 
 ## Overview
 
